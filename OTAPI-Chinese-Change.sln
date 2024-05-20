@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34511.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OTAPI-Chinese-Change", "OTAPI-Chinese-Change\OTAPI-Chinese-Change.csproj", "{F9D4274B-74D7-4B58-B23E-6A5AC453DB38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D4274B-74D7-4B58-B23E-6A5AC453DB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D4274B-74D7-4B58-B23E-6A5AC453DB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D4274B-74D7-4B58-B23E-6A5AC453DB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D4274B-74D7-4B58-B23E-6A5AC453DB38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B7E874A-0EC6-4292-81B5-7A1744CF6A91}
+	EndGlobalSection
+EndGlobal
